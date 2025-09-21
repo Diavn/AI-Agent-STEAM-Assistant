@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Agent Creator",
+  "description": "An interactive application to define, configure, and test conversational AI agents powered by the Gemini API. Create unique agent personas and chat with them in real-time.",
+  "requestFramePermissions": []
+}
