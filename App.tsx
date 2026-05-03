@@ -100,10 +100,12 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-dark-bg text-dark-text font-sans">
       <header className="bg-dark-card border-b border-dark-border py-4 px-8">
-        <h1 className="text-2xl font-bold text-white tracking-wider">
-          Gemini Agent Creator
-        </h1>
-        <p className="text-dark-text-secondary">Define, configure, and test your AI agents.</p>
+       <h1 className="text-2xl font-bold text-white tracking-wider">
+  Mentora AI Math & STEM Coach
+</h1>
+<p className="text-dark-text-secondary">
+  Hỗ trợ giáo viên thiết kế bài học và giúp học sinh học Toán/STEM từng bước.
+</p>
       </header>
 
       <main className="grid grid-cols-1 md:grid-cols-3 gap-6 p-6 max-w-7xl mx-auto">
